@@ -42,8 +42,6 @@ const Title = ({ children, align, htmlFor, sx }) => {
 }
 
 
-
-
 /* Paragraph Component */
 const Paragraph = ({ children, align, sx }) => {
 
